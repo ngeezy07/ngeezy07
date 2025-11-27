@@ -42,4 +42,4 @@ I also build practical tools that support jobsite organization and project effic
 ---
 
 ## 📫 Connect With Me
-**Lin**
+www.linkedin.com/in/nicholas-garcia-909926303
