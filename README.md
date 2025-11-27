@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Nicholas Garcia
 
-<!--
-**ngeezy07/ngeezy07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Construction Management student, foreman, heavy equipment operator, and aspiring Cybersecurity professional.  
+I’m building a dual skillset focused on:
 
-Here are some ideas to get you started:
+- 🏗️ Construction Management & field operations  
+- 🔐 Cybersecurity fundamentals (SOC basics, Linux, networking)  
+- 🖥️ IT support, scripting, and hands-on labs  
+- 📈 Long-term goal: combine construction + cybersecurity to build safer physical & digital systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔐 Cybersecurity Learning Journey
+
+- Linux command practice & scripting  
+- Networking fundamentals  
+- SOC-style labs (threat detection / logs / analysis)  
+- PowerShell & Bash automation  
+- Security tools & system hardening  
+
+---
+
+## 🏗️ Construction Tech & Tools
+I also build practical tools that support jobsite organization and project efficiency, such as:
+
+- Construction folder automation scripts  
+- Daily report templates  
+- Planning & field-ops documentation  
+- Project workflow tools  
+
+---
+
+## 📂 Projects
+
+| Repository | Description |
+|-----------|-------------|
+| `linux-cheat-sheet` | Essential Linux commands for cybersecurity & IT |
+| `powershell-scripts` | Simple scripts for automation & learning |
+| `cyber-labs` | Notes & walkthroughs of cybersecurity labs (coming soon) |
+| `construction-tools` | Scripts & templates for construction workflows (coming soon) |
+
+---
+
+## 📫 Connect With Me
+**Lin**
